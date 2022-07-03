@@ -2,7 +2,7 @@ import random
 import math
 import time
 
-print("Wlecome To MR.Dhoni(THALA) Hand Cricket ")
+print("Wlecome To Hand Cricket ")
 
 time.sleep(2)
 
